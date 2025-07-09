@@ -1,0 +1,2 @@
+# SafetyINFO
+Informational safety precautions.
